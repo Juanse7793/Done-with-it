@@ -15,11 +15,13 @@
     "expo-constants": "^13.2.4",
     "expo-status-bar": "~1.4.0",
     "expo-updates": "~0.14.5",
+    "formik": "^2.1.4",
     "metro-bundler": "^0.22.1",
     "react": "18.0.0",
     "react-native": "0.69.5",
     "react-native-gesture-handler": "~2.5.0",
-    "react-native-web": "~0.18.7"
+    "react-native-web": "~0.18.7",
+    "yup": "^0.28.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
